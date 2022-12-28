@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a Mathematical Computer Science sophomore at University of Science - Vietnam National University
-- 🌱 I’m currently learning Machine Learning, Data Science, AI
+- 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on Machine Learning field
 
 - 📫 How to reach me:  </a> <a href="https://www.facebook.com/ThanhNam0312/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25/> 
