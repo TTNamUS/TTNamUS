@@ -10,13 +10,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning Data Science.
 -->
 
 - 🔭 I’m currently a Mathematical Computer Science sophomore at University of Science - Vietnam National University
-- 🌱 I’m currently learning Data Science.
+
 - 👯 I’m looking to collaborate on Machine Learning field
 
-- 📫 How to reach me:  </a> <a href="https://www.facebook.com/ThanhNam0312/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25/> 
+- 📫 How to reach me:  </a> <a href="https://www.facebook.com/TTNamUS/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25/> 
 
 ### 🛠️ Languages and Tools ✨
 <div>
@@ -30,5 +31,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<!--
 ### 🔥 My Stats ✨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTNamUS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
