@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a Mathematical Computer Science sophomore at University of Science - Vietnam National University
 
 - 👯 I’m looking to collaborate on Machine Learning field
-
+<!--
 - 📫 How to reach me:  </a> <a href="https://www.facebook.com/TTNamUS/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25/> 
-
+-->
 ### 🛠️ Languages and Tools ✨
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
